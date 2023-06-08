@@ -1,0 +1,32 @@
+/* * {
+    border: 1px solid lightseagreen;
+}*/
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftmain {
+    width: 50%;
+}
+
+.rightmain {
+    width: 50%;
+}
+header {
+    display:flex;
+    width: 100%;
+}
+
+.deposits {
+    display: flex;
+    flex-direction: column;
+    width: 25%;$ ssh-keygen -t ed25519 -C "your_email@example.com"
+}
+
+.mortgages {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
